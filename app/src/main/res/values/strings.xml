@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">P1_punto1</string>
+    <string name="titulo">FORMULARIO DE REGISTRO</string>
+    <string name="nombre">"  Nombre"</string>
+    <string name="correo">"  Correo Electronico"</string>
+    <string name="telefono">"  Numero Telefonico"</string>
+    <string name="contrasena">"  Contraseña"</string>
+    <string name="repetir_contrasena">"  Repetir Contraseña"</string>
+    <string name="genero">"  Género:"</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="guardar">Guardar</string>
+    <string name="c_nacimiento">Lugar de nacimiento:</string>
+    <string name="arte">Deportes</string>
+    <string name="musica">Musica</string>
+    <string name="vjuegos">Video juegos</string>
+    <string name="lectura">Lectura</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="fecha_nacimiento">dd/MM/yyyy</string>
+    <string name="fecha_de_nacimiento_label">Fecha de nacimieno</string>
+    <string-array name="ciudades">
+        <item>Medellin</item>
+        <item>Bogota</item>
+        <item>Cali</item>
+        <item>Bucaramanga</item>
+        <item>Barranquilla</item>
+        <item>Cartagena</item>
+    </string-array>
+</resources>
